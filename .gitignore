@@ -1,0 +1,38 @@
+my_model.h5
+__pycache__/
+.venv/
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+.pytest_cache/
+.pyre/
+.mypy_cache/
+.pylint.d/
+.dmypy.json
+.tox/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Docker
+*.dockerignore
+.docker/
+
