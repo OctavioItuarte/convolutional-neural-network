@@ -1,6 +1,6 @@
 # Red neuronal convolucional para reconocimiento de objetos
 
-## Antes de ejecutar se requiere ejecutar:
+## Se requiere instalar los siguientes requerimientos:
 pip install -r requirements.txt
 
 ## Para correr el proyecto ejecutar:
